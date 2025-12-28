@@ -49,7 +49,7 @@ I'm passionate about solving real-world problems using **Machine Learning** and 
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [sadhika-shaik](https://www.linkedin.com/in/sadhika-shaik)
-- 📧 **Email**: shadhika.sk@gmail.com
+- 📧 **Email**: shaikbushrafathima1926@gmail.com
 - 🎥 **YouTube**: [Coming Soon]
 - 💻 **GitHub**: [s14hika](https://github.com/s14hika)
 
