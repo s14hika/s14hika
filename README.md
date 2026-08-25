@@ -1,16 +1,13 @@
 # Hi there 👋 I'm Sadhika
 
-**Final-year B.Tech CSE (AI/ML) @ LBRCE** | **Data Science & NLP Enthusiast** | **GATE DA 2026** | **Open to 2026 FT & 2025 Internships**
+**Graduate B.Tech CSE (AI/ML) @ LBRCE** | **Data Science & NLP Enthusiast**
 
 ---
 
 ## 🎯 About Me
 
-I'm passionate about solving real-world problems using **Machine Learning** and **Data Science**. Currently:
-- 🏗️ Building end-to-end ML projects (recommendation systems, computer vision, NLP)
-- 📚 Preparing for **GATE 2026** (Data Analytics specialization)
-- 🎥 Creating AI/ML content on YouTube
-- 💼 Looking for **FT & Internship roles in Data Science / ML Engineering**
+I'm passionate about solving real-world problems using **Machine Learning** and **Data Science**.
+
 
 ---
 
@@ -50,7 +47,6 @@ I'm passionate about solving real-world problems using **Machine Learning** and 
 
 - 💼 **LinkedIn**: [sadhika-shaik](https://www.linkedin.com/in/sadhika-shaik)
 - 📧 **Email**: shaikbushrafathima1926@gmail.com
-- 🎥 **YouTube**: [Coming Soon]
 - 💻 **GitHub**: [s14hika](https://github.com/s14hika)
 
 ---
